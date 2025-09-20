@@ -1,6 +1,4 @@
 
-
-````markdown
 <div align="center" style="padding: 30px; background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
 
 # ✈️ Travels Mogul 🌍  
